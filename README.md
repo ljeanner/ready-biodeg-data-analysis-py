@@ -44,6 +44,7 @@ Par <em>Lucile Jeanneret </em>
 <h2> Contexte :</h2> 
 <li> L'ensemble de données sur la biodégradation QSAR a été créé par le groupe de recherche Milano Chemometrics and QSAR (Université de Milan, Bicocca, Milan, Italie). La recherche qui a abouti à ces résultats a été financée par le septième programme-cadre de la Communauté européenne [FP7 / 2007-2013] au titre de la convention de subvention n. 238701 du projet Marie Curie ITN Environmental Chemoinformatics (ECO). </li> <br>
 
+<h2> Objectif :</h2> 
 <li> Les données ont été utilisées pour développer des modèles QSAR (Quantitative Structure Activity Relationships) pour l’étude des relations entre la structure chimique et la biodégradation des molécules. Les valeurs expérimentales de biodégradation de 1 055 produits chimiques ont été recueillies à partir de la page Web de l'Institut national de technologie et d'évaluation du Japon (NITE). Des modèles de classification ont été développés afin de distinguer les molécules biodégradables prêtes (356) et non prêtes (699) </li>
 
 <h2> Description : </h2>
@@ -52,13 +53,6 @@ Par <em>Lucile Jeanneret </em>
 
 
 <table>
-    <thead>
-        <tr>
-            <th>Caracteristiques du jeu de données  </th>
-            <th align="center">header 2</th>
-            <th align="right">header 3</th>
-        </tr>
-    </thead>
     <tbody>
         <tr>
             <td>Caractéristique</td>
@@ -85,4 +79,4 @@ Par <em>Lucile Jeanneret </em>
     </tbody>
 </table>
 
-<h2> Objectif :</h2> 
+
