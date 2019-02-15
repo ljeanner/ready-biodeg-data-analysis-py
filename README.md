@@ -63,18 +63,25 @@ Par <em>Lucile Jeanneret </em>
         <tr>
             <td>Caractéristique</td>
             <td align="center">Multivariate</td>
-            <td align="right">value</td>
         </tr>
         <tr>
-            <td>row 2</td>
-            <td align="center">2</td>
-            <td align="right">value</td>
+            <td>Attribut</td>
+            <td align="center">Entier, réelle</td>
         </tr>
         <tr>
-            <td>line 3</td>
-            <td align="center">3</td>
-            <td align="right">value</td>
+            <td>Tache</td>
+            <td align="center">Classification</td>
         </tr>
+        <tr>
+            <td>Total</td>
+            <td align="center">1055</td>
+        </tr>
+        <tr>
+            <td>Nb attributs </td>
+            <td align="center">41</td>
+        </tr>
+
+       
     </tbody>
 </table>
 
