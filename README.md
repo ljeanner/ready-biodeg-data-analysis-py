@@ -61,8 +61,8 @@ Par <em>Lucile Jeanneret </em>
     </thead>
     <tbody>
         <tr>
-            <td>line 1</td>
-            <td align="center">1</td>
+            <td>Caractéristique</td>
+            <td align="center">Multivariate</td>
             <td align="right">value</td>
         </tr>
         <tr>
