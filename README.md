@@ -1,4 +1,8 @@
 
+<h1> QSAR biodegradation Data Set  </h1> <ul>
+https://archive.ics.uci.edu/ml/datasets/QSAR+biodegradation#
+</ul>
+
 Par <em>Lucile Jeanneret </em>
 <h2>L’objet du devoir est de mettre en pratique les différentes compétences nécessaires au métier de data-scientist, vues en cours cette année :</h3>
 <ul>
